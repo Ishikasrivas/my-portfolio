@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .swiper-pagination {
   margin-top: 20rem;
   display: flex;
@@ -8,3 +9,15 @@
 .swiper-pagination-bullet {
   background-color: #ac6b34;
 }
+=======
+.swiper-pagination {
+  margin-top: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-pagination-bullet {
+  background-color: #ac6b34;
+}
+>>>>>>> f03922b83c71463d4cd743097d60d84b56742f82
