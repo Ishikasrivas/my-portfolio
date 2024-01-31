@@ -108,7 +108,7 @@ export const projectsData = [
     image: Project1,
     name: "Real-Estate Project",
     category: "web development",
-    link: "",
+    link: "https://realestateproject-phi.vercel.app/",
   },
   {
     id: "2",
@@ -128,7 +128,7 @@ export const projectsData = [
     id: "4",
     image: Project4,
     name: "NewsAPI",
-    link: "",
+    link: "https://github.com/Ishikasrivas/NewsDekho",
     category: "web development",
   },
   {
@@ -141,7 +141,8 @@ export const projectsData = [
   {
     id: "6",
     image: Project6,
-    name: "project name 6",
+    name: "Vedic Ilaaj",
+    link:"https://github.com/Ishikasrivas/ayurvedh",
     category: "web development",
   },
 ];
